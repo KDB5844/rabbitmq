@@ -1,4 +1,4 @@
-package com.example.hellomessagequeue.step0;
+package com.example.hellomessagequeue.step1;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
